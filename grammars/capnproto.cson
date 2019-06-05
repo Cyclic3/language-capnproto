@@ -46,4 +46,8 @@ patterns: [
     end: '$\\n?'
     name: 'comment.line.pound.capnp'
   }
+  {
+    match: '\\$[0-9a-zA-Z]+'
+    name: 'entity.name.tag.capnp'
+  }
 ]

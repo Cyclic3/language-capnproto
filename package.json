@@ -1,8 +1,8 @@
 {
   "name": "language-capnproto",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "Adds capnproto schema language support to atom",
-  "repository": "https://github.com/tekacs/language-capnproto",
+  "repository": "https://github.com/Cyclic3/language-capnproto",
   "license": "ISC",
   "engines": {
     "atom": ">0.50.0"
